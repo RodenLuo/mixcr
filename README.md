@@ -1,22 +1,27 @@
-## Overview
+## Overview 概述
 
 MiXCR is a universal software for fast and accurate analysis of raw T- or B- cell receptor repertoire sequencing data.
+MiXCR是一个通用软件，用以快速并准确地分析 T细胞 和 B细胞 受体库测序的原始数据。
 
-## Installation / Download
+## Installation / Download 安装 / 下载
 
 #### Using Homebrew on Mac OS X or Linux (linuxbrew)
+#### 使用 Mac OS X 里的 Homebrew 或 Linux 的 linuxbrew
 
     brew install milaboratory/all/mixcr
     
 to upgrade already installed MiXCR to the newest version:
+升级已安装的MiXCR到最新版本：
 
     brew update
     brew upgrade mixcr
 
-#### Manual install (any OS)
+#### Manual install (any OS) 手动安装（任何操作系统）
 
 * download latest MiXCR version from [release page](https://github.com/milaboratory/mixcr/releases/latest)
+从 [发行页](https://github.com/milaboratory/mixcr/releases/latest) 下载最新版的MiXCR
 * unzip the archive
+解压缩压缩包
 * add resulting folder to your ``PATH`` variable
   * or add symbolic link for ``mixcr`` script to your ``bin`` folder
   * or use MiXCR directly by specifying full path to the executable script
