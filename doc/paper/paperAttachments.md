@@ -1,10 +1,14 @@
 ## Overview
+## 概述
 
 This page contain links to the files referred in original MiXCR paper:
+
+该页含有MiXCR原始文献中所引用文件的链接。
 
 Bolotin, Dmitriy A., Stanislav Poslavsky, Igor Mitrophanov, Mikhail Shugay, Ilgar Z. Mamedov, Ekaterina V. Putintseva, and Dmitriy M. Chudakov. "MiXCR: software for comprehensive adaptive immunity profiling." *Nature methods* 12, no. 5 (**2015**): 380-381.
 
 ## Datasets used in the paper
+## 该文献中使用的数据集
 
 * Full-length Antybody data (1.9 Gb): [link](http://files.milaboratory.com/mixcr/paper/igh_data.zip)
 * Real TRB (1.5 Mb): [link](http://files.milaboratory.com/mixcr/paper/real_trb.zip)
