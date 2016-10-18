@@ -61,11 +61,15 @@ Detailed documentation can be found at https://mixcr.readthedocs.io/
 
 详细的说明文档在 https://mixcr.readthedocs.io/
 
-## License
+## License 使用许可
 
 Copyright (c) 2014-2015, Bolotin Dmitry, Chudakov Dmitry, Shugay Mikhail
 (here and after addressed as Inventors)
 All Rights Reserved
+
+Copyright (c) 2014-2015, Bolotin Dmitry, Chudakov Dmitry, Shugay Mikhail
+（这里及以下，作为发明人发表）
+保留所有权利。
 
 Permission to use, copy, modify and distribute any part of this program for
 educational, research and non-profit purposes, by non-profit institutions
@@ -73,9 +77,15 @@ only, without fee, and without a written agreement is hereby granted,
 provided that the above copyright notice, this paragraph and the following
 three paragraphs appear in all copies.
 
+特此授予许可，仅限非盈利机构因教育、研究、和非盈利目的而使用、复制、修改、和发布该软件任一部分，
+不需付费，也不需取得书面协议。
+
 Those desiring to incorporate this work into commercial products or use for
 commercial purposes should contact the Inventors using one of the following
 email addresses: chudakovdm@mail.ru, chudakovdm@gmail.com
+
+想要将这项工作纳入商业产品中或是因商业目的使用它，应该使用下列Email地址中的一个联系
+发明人：chudakovdm@mail.ru, chudakovdm@gmail.com
 
 IN NO EVENT SHALL THE INVENTORS BE LIABLE TO ANY PARTY FOR DIRECT, INDIRECT,
 SPECIAL, INCIDENTAL, OR CONSEQUENTIAL DAMAGES, INCLUDING LOST PROFITS,
